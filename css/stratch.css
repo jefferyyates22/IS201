@@ -1,0 +1,79 @@
+/* styles.css */
+
+/* Font Styles */
+body {
+    font-family: 'Roboto', sans-serif; /* Example font family */
+    color: #fff; /* Font color */
+  }
+
+  .resumeListHeading {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Style Definitions */
+  /* Define a class for a styled div */
+  .styled-div {
+    background-color: #1f1f1f;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Define another class for a differently styled div */
+  .another-div {
+    background-color: #dcd8d8;
+    color: #ff9900;
+    padding: 15px;
+    border: 2px solid #ff9900;
+  }
+  
+  /* Positioning */
+  /* Position and style the divs */
+  #div1 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  
+  #div2 {
+    top: 100px;
+    left: 150px;
+  }
+  
+  #div3 {
+    top: 20%;
+    right: 5%;
+  }
+
+  .justify {
+    text-align: justify;
+  }
+  
+  /* Styling for the bold span within the paragraph */
+  .bold {
+    font-weight: bold;
+  }
+
+  /* styles.css */
+
+/* Styling for common class elements */
+.common {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for rightmenu */
+  .rightmenu {
+    color: #1f1f1f;
+  }
+  
+  /* Styling for footer */
+  .footer {
+    clear: both;
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+  }
+  
+  
